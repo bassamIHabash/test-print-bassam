@@ -1,7 +1,5 @@
 import * as React from "react";
 import * as ReactDomClient from "react-dom/client";
-import { Tab, Tabs, TabList, TabPanel } from "react-tabs";
-import "react-tabs/style/react-tabs.css";
 
 import { CustomPrint } from "./examples/CustomPrint";
 import "./example.css";
