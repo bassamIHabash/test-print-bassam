@@ -1,0 +1,15 @@
+{
+  "name": "react-to-print",
+  "version": "1.0.0",
+  "description": "Print React components in the browser",
+  "keywords": [],
+  "homepage": "https://codesandbox.io/s/kmmw7l39y7",
+  "main": "src/index.js",
+  "dependencies": {
+    "prop-types": "15.8.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-tabs": "6.0.0",
+    "react-to-print": "latest"
+  }
+}
